@@ -4,6 +4,11 @@ npm install
 npm run dev
 open http://localhost:5173/ in browser
 
+## Личные заметки
+
+Токены лежат в .env если ACCESSTOKEN протух, то можно воспользоваться рефрешем, ну или передернуть интеграцию и получить заново
+Хранить в репе не стоит конечно, но для теста можно.
+
 ## to get access token use bash:
 
 ```bash
